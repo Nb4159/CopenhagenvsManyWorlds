@@ -1,2 +1,2 @@
 # CopenhagenvsManyWorlds
-This is qiskit code to test the Copenhagen Interpretation of Quantum Mechanics against Many World's Interpretation
+There has always been a debate surrounding the various Interpretations of quantum mechanics. In my earlier notebooks I wrote qiskit codes for Copenhagen(collapse theory) and Many Worlds Interpretation(No Collapse Theory) .This is qiskit code to test the Copenhagen Interpretation of Quantum Mechanics against Many World's Interpretation. This is based on Deutsch paper of treating Quantum Theory as a universal theory. While both collapse and no-collapse theories are self consistent, we are going to pit them against one other and observe how they produce very different results.
